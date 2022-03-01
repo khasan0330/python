@@ -2,7 +2,7 @@
 
 В Python есть несколько стандартных типов данных:
 
-* [Numbers (числа)](.numbers.md) 
+* [Numbers (числа)](numbers.md) 
 * Strings (строки)
 * Lists (списки)
 * Dictionaries (словари)
